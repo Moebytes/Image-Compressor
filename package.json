@@ -163,7 +163,7 @@
     "electron-store": "^7.0.1",
     "electron-updater": "^4.3.5",
     "gif-encoder": "^0.7.2",
-    "gif-frames": "github:Moebytes/gif-frames",
+    "gif-frames": "github:Moebytes/gif-frames#no-cumulative",
     "image-pixels": "^2.2.2",
     "image-size": "^0.9.3",
     "imagemin": "github:Moebytes/imagemin#fix2",
@@ -189,4 +189,5 @@
     "srt-to-vtt": "^1.1.3"
   }
 }
+
 
