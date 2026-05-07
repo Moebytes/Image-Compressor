@@ -44,6 +44,10 @@ Our design is available here: https://www.figma.com/design/lTUtTd5bAHSxvg3uTzNWI
 
 ### Purchase
 
+<a href="https://apps.apple.com/us/app/pixel-compressor/id6760260651" target="_blank">
+  <img src="assets/images/mac-app-store.svg" style="height:60px; margin-right:10px;"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://apps.microsoft.com/store/detail/9P751MM4CN08" target="_blank">
   <img src="assets/images/microsoft-store.svg" style="height:60px"/>
 </a>
